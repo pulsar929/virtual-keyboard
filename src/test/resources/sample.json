@@ -1,0 +1,11 @@
+[{
+"alphabet":["Q", "W", "E", "R", "T", "Y", "U", "I", "B", "P", "A", "S"],
+"rowLength": 5,
+"startingFocus": "B",
+"word": "BAR"
+}, {
+"alphabet":["R", "T", "Y", "A", "S", "D", "E", "U", "I", "O", "L"],
+"rowLength": 3,
+"startingFocus": "Y",
+"word": "TILT"
+}]
